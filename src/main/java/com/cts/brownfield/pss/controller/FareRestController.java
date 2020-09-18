@@ -17,6 +17,7 @@ import com.cts.brownfield.pss.service.FaresService;
 @CrossOrigin
 @RequestMapping("/api/pss")
 public class FareRestController {
+	//Autowiring
 	@Autowired
 	private FaresService faresService;
 
