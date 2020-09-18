@@ -24,7 +24,7 @@ public class FareRestController {
 	@GetMapping("/getFare/{flightNumber}/{flightDate}")
 	public Fares getFare(@PathVariable("flightNumber") String flightNumber,
 			@PathVariable("flightDate") @DateTimeFormat(iso = DateTimeFormat.ISO.DATE) LocalDate flightDate) {
-			 System.out.println("--- Testing ");
+			 System.out.println("--- Testing....... ");
 		return faresService.getFare(flightNumber, flightDate);
 	}
 	
