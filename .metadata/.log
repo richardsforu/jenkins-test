@@ -180,3 +180,27 @@ Binding(COMMAND+SHIFT+T,
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-21 09:26:33.883
 !MESSAGE executing callback sts4.classpath.ueNTznHz SUCCESS [done]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-09-21 12:53:52.215
+!MESSAGE The POM for org.codehaus.mojo:tomcat-maven-plugin:jar:2.2 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-09-21 12:53:52.489
+!MESSAGE Failed to retrieve plugin descriptor for org.codehaus.mojo:tomcat-maven-plugin:2.2: Plugin org.codehaus.mojo:tomcat-maven-plugin:2.2 or one of its dependencies could not be resolved: Could not find artifact org.codehaus.mojo:tomcat-maven-plugin:jar:2.2 in central (https://repo.maven.apache.org/maven2)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-09-21 12:53:52.490
+!MESSAGE The POM for org.codehaus.mojo:tomcat-maven-plugin:jar:2.2 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-09-21 12:53:52.495
+!MESSAGE Failed to retrieve plugin descriptor for org.codehaus.mojo:tomcat-maven-plugin:2.2: Plugin org.codehaus.mojo:tomcat-maven-plugin:2.2 or one of its dependencies could not be resolved: Failure to find org.codehaus.mojo:tomcat-maven-plugin:jar:2.2 in https://repo.maven.apache.org/maven2 was cached in the local repository, resolution will not be reattempted until the update interval of central has elapsed or updates are forced
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-09-21 12:53:53.012
+!MESSAGE The POM for org.codehaus.mojo:tomcat-maven-plugin:jar:2.2 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-09-21 12:53:53.013
+!MESSAGE Failed to retrieve plugin descriptor for org.codehaus.mojo:tomcat-maven-plugin:2.2: Plugin org.codehaus.mojo:tomcat-maven-plugin:2.2 or one of its dependencies could not be resolved: Cannot access central (https://repo.maven.apache.org/maven2) in offline mode and the artifact org.codehaus.mojo:tomcat-maven-plugin:jar:2.2 has not been downloaded from it before.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-09-21 12:53:53.013
+!MESSAGE The POM for org.codehaus.mojo:tomcat-maven-plugin:jar:2.2 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-09-21 12:53:53.014
+!MESSAGE Failed to retrieve plugin descriptor for org.codehaus.mojo:tomcat-maven-plugin:2.2: Plugin org.codehaus.mojo:tomcat-maven-plugin:2.2 or one of its dependencies could not be resolved: Cannot access central (https://repo.maven.apache.org/maven2) in offline mode and the artifact org.codehaus.mojo:tomcat-maven-plugin:jar:2.2 has not been downloaded from it before.
