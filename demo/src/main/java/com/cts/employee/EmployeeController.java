@@ -11,7 +11,7 @@ public class EmployeeController {
 	
 	@RequestMapping("/")
 	public String welcome(Model model) {
-		model.addAttribute("name", "Praveen");
+		model.addAttribute("name", "Praveen Reddy S");
 		return "index";
 	}
 
