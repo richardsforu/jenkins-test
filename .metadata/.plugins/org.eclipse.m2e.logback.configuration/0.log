@@ -474,3 +474,12 @@
 2020-09-21 16:36:58,038 [Worker-69: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.apache.tomcat.maven:tomcat-maven-plugin:2.1: Plugin org.apache.tomcat.maven:tomcat-maven-plugin:2.1 or one of its dependencies could not be resolved: Cannot access central (https://repo.maven.apache.org/maven2) in offline mode and the artifact org.apache.tomcat.maven:tomcat-maven-plugin:jar:2.1 has not been downloaded from it before.
 2020-09-21 16:36:58,040 [Worker-69: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.apache.tomcat.maven:tomcat-maven-plugin:2.1: Plugin org.apache.tomcat.maven:tomcat-maven-plugin:2.1 or one of its dependencies could not be resolved: Cannot access central (https://repo.maven.apache.org/maven2) in offline mode and the artifact org.apache.tomcat.maven:tomcat-maven-plugin:jar:2.1 has not been downloaded from it before.
 2020-09-21 16:36:58,042 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-21 16:37:48,316 [Worker-69: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.cts:demo:1 @ /Users/praveen/Training/Cognizant/jenkins-test/demo/pom.xml.
+2020-09-21 16:37:48,962 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-21 16:37:48,966 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-21 16:37:48,966 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-21 16:37:48,970 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-21 16:37:48,970 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/praveen/Training/Cognizant/jenkins-test/demo/src/test/resources
+2020-09-21 16:37:48,971 [Worker-69: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of demo
+2020-09-21 16:37:48,972 [Worker-69: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for demo
+2020-09-21 16:37:48,982 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
