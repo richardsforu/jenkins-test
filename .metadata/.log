@@ -240,3 +240,15 @@ Binding(COMMAND+SHIFT+T,
 
 !ENTRY org.eclipse.m2e.logback.appender 2 0 2020-09-21 16:31:45.253
 !MESSAGE Failed to retrieve plugin descriptor for org.apache.tomcat.maven:tomcat9-maven-plugin:2.1: Plugin org.apache.tomcat.maven:tomcat9-maven-plugin:2.1 or one of its dependencies could not be resolved: Cannot access central (https://repo.maven.apache.org/maven2) in offline mode and the artifact org.apache.tomcat.maven:tomcat9-maven-plugin:jar:2.1 has not been downloaded from it before.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-09-21 16:36:57.689
+!MESSAGE Failed to retrieve plugin descriptor for org.apache.tomcat.maven:tomcat-maven-plugin:2.1: Plugin org.apache.tomcat.maven:tomcat-maven-plugin:2.1 or one of its dependencies could not be resolved: Could not find artifact org.apache.tomcat.maven:tomcat-maven-plugin:jar:2.1 in central (https://repo.maven.apache.org/maven2)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-09-21 16:36:57.697
+!MESSAGE Failed to retrieve plugin descriptor for org.apache.tomcat.maven:tomcat-maven-plugin:2.1: Plugin org.apache.tomcat.maven:tomcat-maven-plugin:2.1 or one of its dependencies could not be resolved: Failure to find org.apache.tomcat.maven:tomcat-maven-plugin:jar:2.1 in https://repo.maven.apache.org/maven2 was cached in the local repository, resolution will not be reattempted until the update interval of central has elapsed or updates are forced
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-09-21 16:36:58.038
+!MESSAGE Failed to retrieve plugin descriptor for org.apache.tomcat.maven:tomcat-maven-plugin:2.1: Plugin org.apache.tomcat.maven:tomcat-maven-plugin:2.1 or one of its dependencies could not be resolved: Cannot access central (https://repo.maven.apache.org/maven2) in offline mode and the artifact org.apache.tomcat.maven:tomcat-maven-plugin:jar:2.1 has not been downloaded from it before.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-09-21 16:36:58.041
+!MESSAGE Failed to retrieve plugin descriptor for org.apache.tomcat.maven:tomcat-maven-plugin:2.1: Plugin org.apache.tomcat.maven:tomcat-maven-plugin:2.1 or one of its dependencies could not be resolved: Cannot access central (https://repo.maven.apache.org/maven2) in offline mode and the artifact org.apache.tomcat.maven:tomcat-maven-plugin:jar:2.1 has not been downloaded from it before.
