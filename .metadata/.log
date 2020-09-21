@@ -204,3 +204,15 @@ Binding(COMMAND+SHIFT+T,
 
 !ENTRY org.eclipse.m2e.logback.appender 2 0 2020-09-21 12:53:53.014
 !MESSAGE Failed to retrieve plugin descriptor for org.codehaus.mojo:tomcat-maven-plugin:2.2: Plugin org.codehaus.mojo:tomcat-maven-plugin:2.2 or one of its dependencies could not be resolved: Cannot access central (https://repo.maven.apache.org/maven2) in offline mode and the artifact org.codehaus.mojo:tomcat-maven-plugin:jar:2.2 has not been downloaded from it before.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-09-21 16:20:37.398
+!MESSAGE Failed to retrieve plugin descriptor for org.apache.tomcat.maven:tomcat-maven-plugin-it:2.1: Failed to parse plugin descriptor for org.apache.tomcat.maven:tomcat-maven-plugin-it:2.1 (/Users/praveen/.m2/repository/org/apache/tomcat/maven/tomcat-maven-plugin-it/2.1/tomcat-maven-plugin-it-2.1.jar): No plugin descriptor found at META-INF/maven/plugin.xml
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-09-21 16:20:37.400
+!MESSAGE Failed to retrieve plugin descriptor for org.apache.tomcat.maven:tomcat-maven-plugin-it:2.1: Failed to parse plugin descriptor for org.apache.tomcat.maven:tomcat-maven-plugin-it:2.1 (/Users/praveen/.m2/repository/org/apache/tomcat/maven/tomcat-maven-plugin-it/2.1/tomcat-maven-plugin-it-2.1.jar): No plugin descriptor found at META-INF/maven/plugin.xml
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-09-21 16:20:37.812
+!MESSAGE Failed to retrieve plugin descriptor for org.apache.tomcat.maven:tomcat-maven-plugin-it:2.1: Failed to parse plugin descriptor for org.apache.tomcat.maven:tomcat-maven-plugin-it:2.1 (/Users/praveen/.m2/repository/org/apache/tomcat/maven/tomcat-maven-plugin-it/2.1/tomcat-maven-plugin-it-2.1.jar): No plugin descriptor found at META-INF/maven/plugin.xml
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-09-21 16:20:37.814
+!MESSAGE Failed to retrieve plugin descriptor for org.apache.tomcat.maven:tomcat-maven-plugin-it:2.1: Failed to parse plugin descriptor for org.apache.tomcat.maven:tomcat-maven-plugin-it:2.1 (/Users/praveen/.m2/repository/org/apache/tomcat/maven/tomcat-maven-plugin-it/2.1/tomcat-maven-plugin-it-2.1.jar): No plugin descriptor found at META-INF/maven/plugin.xml
