@@ -216,3 +216,27 @@ Binding(COMMAND+SHIFT+T,
 
 !ENTRY org.eclipse.m2e.logback.appender 2 0 2020-09-21 16:20:37.814
 !MESSAGE Failed to retrieve plugin descriptor for org.apache.tomcat.maven:tomcat-maven-plugin-it:2.1: Failed to parse plugin descriptor for org.apache.tomcat.maven:tomcat-maven-plugin-it:2.1 (/Users/praveen/.m2/repository/org/apache/tomcat/maven/tomcat-maven-plugin-it/2.1/tomcat-maven-plugin-it-2.1.jar): No plugin descriptor found at META-INF/maven/plugin.xml
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-09-21 16:31:44.565
+!MESSAGE The POM for org.apache.tomcat.maven:tomcat9-maven-plugin:jar:2.1 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-09-21 16:31:44.956
+!MESSAGE Failed to retrieve plugin descriptor for org.apache.tomcat.maven:tomcat9-maven-plugin:2.1: Plugin org.apache.tomcat.maven:tomcat9-maven-plugin:2.1 or one of its dependencies could not be resolved: Could not find artifact org.apache.tomcat.maven:tomcat9-maven-plugin:jar:2.1 in central (https://repo.maven.apache.org/maven2)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-09-21 16:31:44.957
+!MESSAGE The POM for org.apache.tomcat.maven:tomcat9-maven-plugin:jar:2.1 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-09-21 16:31:44.957
+!MESSAGE Failed to retrieve plugin descriptor for org.apache.tomcat.maven:tomcat9-maven-plugin:2.1: Plugin org.apache.tomcat.maven:tomcat9-maven-plugin:2.1 or one of its dependencies could not be resolved: Failure to find org.apache.tomcat.maven:tomcat9-maven-plugin:jar:2.1 in https://repo.maven.apache.org/maven2 was cached in the local repository, resolution will not be reattempted until the update interval of central has elapsed or updates are forced
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-09-21 16:31:45.252
+!MESSAGE The POM for org.apache.tomcat.maven:tomcat9-maven-plugin:jar:2.1 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-09-21 16:31:45.252
+!MESSAGE Failed to retrieve plugin descriptor for org.apache.tomcat.maven:tomcat9-maven-plugin:2.1: Plugin org.apache.tomcat.maven:tomcat9-maven-plugin:2.1 or one of its dependencies could not be resolved: Cannot access central (https://repo.maven.apache.org/maven2) in offline mode and the artifact org.apache.tomcat.maven:tomcat9-maven-plugin:jar:2.1 has not been downloaded from it before.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-09-21 16:31:45.252
+!MESSAGE The POM for org.apache.tomcat.maven:tomcat9-maven-plugin:jar:2.1 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-09-21 16:31:45.253
+!MESSAGE Failed to retrieve plugin descriptor for org.apache.tomcat.maven:tomcat9-maven-plugin:2.1: Plugin org.apache.tomcat.maven:tomcat9-maven-plugin:2.1 or one of its dependencies could not be resolved: Cannot access central (https://repo.maven.apache.org/maven2) in offline mode and the artifact org.apache.tomcat.maven:tomcat9-maven-plugin:jar:2.1 has not been downloaded from it before.
