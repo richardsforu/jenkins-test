@@ -69,6 +69,7 @@
                     <url>http://localhost:9090/manager/text</url>
                     <server>TomcatServer</server>
                     <path>/demo-app</path>
+                    <update>true</update>
                 </configuration>
             </plugin>
 			
